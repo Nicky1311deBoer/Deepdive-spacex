@@ -6,7 +6,7 @@ import sys
 if len(sys.argv) > 1:
     who = sys.argv[1]
 
-sender = 'nmjdeboer@gmail.com'
+sender = ''
 password = ''
 receiver = who
 
