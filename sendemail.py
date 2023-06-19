@@ -7,7 +7,7 @@ if len(sys.argv) > 1:
     who = sys.argv[1]
 
 sender = 'nmjdeboer@gmail.com'
-password = 'rucyvsadxskdchwa'
+password = ''
 receiver = who
 
 subject = 'Ticket bevestiging spacex'
